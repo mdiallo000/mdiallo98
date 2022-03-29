@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mdiallo98
 - 👀 I’m interested in Front-End Devlopment, F1, Bball, Debates, and Footy
 - 🌱 I’m currently learning more and more about the front-end with React 
-- 📫 How to reach me..
+- 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mdiallo98&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mdiallo98&langs_count=5&theme=tokyonight)]()
 
