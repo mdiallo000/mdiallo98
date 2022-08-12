@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdiallo98
+- 👋 Hi, I’m Mamadou
 - 👀 I’m interested in Front-End Devlopment, F1, Bball, Debates, and Footy
 - 🌱 I’m currently learning more and more about the front-end with React 
 
